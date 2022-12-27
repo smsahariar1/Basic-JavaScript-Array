@@ -6,8 +6,13 @@
 4. Array index number -> array-index.js
 5. Set element by index number -> element-change-by-index-number.js
 6. Find index of an element -> indexOf.js
+7. How to add element in the first positon in an arrray? -> unshift.js
+8. How to add element in the last positon in an arrray? -> push.js
+9. How to remove element in the first position from an array? - shift.js
+10. How to remove element in the last position from an array? - pop.js
 
 Reference:
 w3shcools.com,
 freecodecamp.org,
 developer.mozilla.org
+web.programming-hero.com
