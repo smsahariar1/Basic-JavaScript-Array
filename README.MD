@@ -12,4 +12,4 @@
 10. How to remove element in the last position from an array? - pop.js
 
 Reference:
-[1]: http://google.com/ "Google"
+[1]: http://web.programming-hero.com/ "Programming-Hero"
